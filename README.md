@@ -92,20 +92,29 @@ Coding python within a jupyter notebook I was able to take information from Merc
 
 #### 2. [Webscraping from Website](https://github.com/taylerchambers/Data-Analyst-Portfolio-Projects/blob/a77aff43384da37c1d83d837d8548f9b21ac134c/Scraping%20Data%20from%20Website%20Project.ipynb)
 **Description:** 
-**Skills Used:**
+Within this project I took data from a wiki based on the largest companies in the world and the revenue they accumlated. In the jupyter notebook I used syntax code ranging from: strip, data frames, creating columns and rows, print, etc. The end result was showcasing the companies and their revenue based on loss and gain. 
+
+**Skills Used:** Python, Pandas, NumPy
+
 #### 3. [Amazon Webscraping](https://github.com/taylerchambers/Data-Analyst-Portfolio-Projects/blob/172af9b40c57564418294f64914b45533fddd736/Amazon%20Web%20Scraper%20Project.ipynb)
 **Description:** 
-**Skills Used:**
-#### 4. [Automating Crypto Website API Pull]()
+By taking information and data from Amazon I was able to make an automater that would pull the exact code from a real time website into this python/pandas file. Whenever anyone were to run the code the cells would populate whatever the Amazon item was at the time along with the price which is useful for hoildays like Christmas. 
+
+**Skills Used:** Python, Pandas, HTML, NumPy
+
+#### 4. [Automating Crypto Website API Pull](https://github.com/taylerchambers/Data-Analyst-Portfolio-Projects/blob/1c6e093d449f1653927c324407710efbd4597808/Auto%20API%20Project.ipynb)
 **Description:** 
-**Skills Used:**
+Here I was able to pull information and data from the internet showcasing trends on Crypto like average, percentages, and values. There is a visual that is presented at the end of the code which is up to date when the cells are ran. My skills are used to understand ongoing changes in the stock market by using python and pandas. 
+
+**Skills Used:** Python, Pandas, NumPy
+
 ---
 
 ## Skills
 
 - **Data Analysis:** SQL, Python (Pandas)
 - **Data Visualization:** Tableau, Power BI
-- **Programming Languages:** Python
+- **Programming Languages:** Python, HTML 
 - **Databases:** SQL (MySQL)
 - **Tools & Software:** Excel, Jupyter Notebooks
 - **Other:** Data Cleaning, Data Transformation, Statistical Analysis
