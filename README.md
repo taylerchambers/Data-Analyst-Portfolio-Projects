@@ -26,6 +26,13 @@ I'm an aspiring data analyst transitioning into the tech industry, with a strong
 
 ## Skills
 
+- **Data Analysis:** SQL, Python (Pandas)
+- **Data Visualization:** Tableau, Power BI
+- **Programming Languages:** Python
+- **Databases:** SQL (MySQL)
+- **Tools & Software:** Excel, Jupyter Notebooks
+- **Other:** Data Cleaning, Data Transformation, Statistical Analysis
+
 ## Contact 
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/taylerchambers/) for networking or any inquiries!
