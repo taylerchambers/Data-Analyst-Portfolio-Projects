@@ -27,7 +27,7 @@ These are the projects where SQL was used for data analysis and querying.
 **Description:**
 This project demonstrates how to use SQL to clean data based on layoffs from companies aroud the world.
 **Skills Used:** SQL, Data Analysis
-**File:**()
+**File:**(Data Cleaning Project (1).sql)
 
 
 ## Skills
