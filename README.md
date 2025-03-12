@@ -52,8 +52,31 @@ Here I take data collected from a range of people based on whether they own a bi
 A project wihtin Tableau using all the tools that the platform has to offer to create a story.
 
 
-#### 1. [AirBnB Insights]()
+#### 1. [AirBnB Insights](https://github.com/taylerchambers/Data-Analyst-Portfolio-Projects/blob/86358f33e8b43c7eef4c11ec5cb83d65a54b06b8/AirBnB%20Full%20Project.twb)
+**Description:** 
+Using Tableau I was able to compare and understand many insights with the data of multiple AirBnB properties. Within Tableau we see visuals that show price comparisons, zipcodes via a map, bar graphs based on the number of bedrooms, etc. 
 
+**Skills Used:** Tableau, Data Visualization
+
+--- 
+
+### PowerBI
+A project using PowerBI and its tools to decipher and visualize data. 
+
+
+#### 1. [Data Survey]()
+**Description:** 
+
+
+**Skills Used:**
+
+---
+
+### Python/Pandas
+Multiple projects demonstrating my skills using the interface Anaconda and working within juypter notebooks to code in the languages of python/pandas. 
+
+
+#### 1. 
 ## Skills
 
 - **Data Analysis:** SQL, Python (Pandas)
