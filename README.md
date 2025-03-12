@@ -8,13 +8,19 @@
 - [Skills](#skills)
 - [Contact](#contact)
 
+--- 
+
 ## Introduction
 
 Here are several projects that demonstrate my expertise in data analytics, showcasing my proficiency with SQL, Excel, Tableau, Power BI, and Python/Pandas. Each project highlights my ability to analyze, visualize, and interpret data to uncover meaningful insights.
 
+---
+
 ## About 
 
 I'm an aspiring data analyst transitioning into the tech industry, with a strong passion for turning data into actionable insights. Through hands-on projects, I’ve honed my skills in SQL, Excel, Tableau, Power BI, and Python/Pandas. I'm eager to apply my analytical abilities and problem-solving mindset to real-world challenges and continue learning and growing in the tech space.
+
+---
 
 ## Projects 
 
@@ -78,7 +84,23 @@ Here I filter data of real inputs from twitter based on people's career in Data 
 Multiple projects demonstrating my skills using the interface Anaconda and working within juypter notebooks to code in the languages of python/pandas. 
 
 
-#### 1. [BMI Calculator]()
+#### 1. [BMI Calculator](https://github.com/taylerchambers/Data-Analyst-Portfolio-Projects/blob/1a0b8d48c1203b680f173f01a191f3d42e52054a/BMI%20Calculator%20(Project).ipynb)
+**Description:** 
+Coding python within a jupyter notebook I was able to take information from Mercer Health and create a BMI calculator showcasing my skills with python by creating a loop based on the user's input. 
+
+**Skills Used:** Python, NumPy
+
+#### 2. [Webscraping from Website]()
+**Description:** 
+**Skills Used:**
+#### 3. [Amazon Webscraping]()
+**Description:** 
+**Skills Used:**
+#### 4. [Automating Crypto Website API Pull]()
+**Description:** 
+**Skills Used:**
+---
+
 ## Skills
 
 - **Data Analysis:** SQL, Python (Pandas)
