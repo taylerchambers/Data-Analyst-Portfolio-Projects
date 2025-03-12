@@ -93,7 +93,7 @@ Coding python within a jupyter notebook I was able to take information from Merc
 #### 2. [Webscraping from Website](https://github.com/taylerchambers/Data-Analyst-Portfolio-Projects/blob/a77aff43384da37c1d83d837d8548f9b21ac134c/Scraping%20Data%20from%20Website%20Project.ipynb)
 **Description:** 
 **Skills Used:**
-#### 3. [Amazon Webscraping]()
+#### 3. [Amazon Webscraping](https://github.com/taylerchambers/Data-Analyst-Portfolio-Projects/blob/172af9b40c57564418294f64914b45533fddd736/Amazon%20Web%20Scraper%20Project.ipynb)
 **Description:** 
 **Skills Used:**
 #### 4. [Automating Crypto Website API Pull]()
