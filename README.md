@@ -40,12 +40,19 @@ Here I explore the data of layoffs from vairous companies around the world using
 A project using excel and the features within the app. 
 
 
-#### 1. [Bike Purchases]()
+#### 1. [Bike Purchases](https://github.com/taylerchambers/Data-Analyst-Portfolio-Projects/blob/8a081061102a0d91fad2e651040caa15f2c6702f/Excel%20Project%20(Bike%20Purchases).xlsx)
+**Description:** 
+Here I take data collected from a range of people based on whether they own a bike or not. Within the excel spreadsheet there are visuals that showcase multiple aspects including: the average income of each household, age range, commute distances etc. 
+
+**Skills Used:** Excel, Data Analysis, Data Visulization 
+
+---
+
+### Tableau
+A project wihtin Tableau using all the tools that the platform has to offer to create a story.
 
 
-
-
-
+#### 1. [AirBnB Insights]()
 
 ## Skills
 
