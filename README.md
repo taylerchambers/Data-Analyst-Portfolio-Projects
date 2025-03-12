@@ -58,6 +58,8 @@ Using Tableau I was able to compare and understand many insights with the data o
 
 **Skills Used:** Tableau, Data Visualization
 
+https://public.tableau.com/views/AirBnBFullProject_17417307628680/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 --- 
 
 ### PowerBI
@@ -66,9 +68,9 @@ A project using PowerBI and its tools to decipher and visualize data.
 
 #### 1. [Data Survey](https://github.com/taylerchambers/Data-Analyst-Portfolio-Projects/blob/9c20c064873492635219046a68c47bcb9a941602/Power%20BI%20Project%20(data%20survey).pbix)
 **Description:** 
+Here I filter data of real inputs from twitter based on people's career in Data Analytics. Some visuals created show happiness score within their field, pay based on gender, etc. 
 
-
-**Skills Used:**
+**Skills Used:** PowerBI, Data Visualization
 
 ---
 
@@ -76,7 +78,7 @@ A project using PowerBI and its tools to decipher and visualize data.
 Multiple projects demonstrating my skills using the interface Anaconda and working within juypter notebooks to code in the languages of python/pandas. 
 
 
-#### 1. 
+#### 1. [BMI Calculator]()
 ## Skills
 
 - **Data Analysis:** SQL, Python (Pandas)
