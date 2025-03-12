@@ -26,6 +26,7 @@ These are the projects where SQL was used for data analysis and querying.
 #### 1. [Data Cleaning](https://github.com/taylerchambers/Data-Analyst-Portfolio-Projects/blob/a43d6d9e2b1155c9d25798ce6fe0dfb9789fd2bb/Data%20Cleaning%20Project%20(1).sql)
 **Description:**
 This project demonstrates how to use SQL to clean data based on layoffs from companies aroud the world.
+
 **Skills Used:** SQL, Data Analysis
 
 
