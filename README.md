@@ -18,11 +18,17 @@ I'm an aspiring data analyst transitioning into the tech industry, with a strong
 
 ## Projects 
 
-# SQL
-# Excel
-# Tableau
-# PowerBI
-# Python/Pandas
+### SQL 
+These are the projects where SQL was used for data analysis and querying.
+
+---
+
+#### 1. [Data Cleaning]()
+**Description:**
+This project demonstrates how to use SQL to clean data based on layoffs from companies aroud the world.
+**Skills Used:** SQL, Data Analysis
+**File:**
+
 
 ## Skills
 
