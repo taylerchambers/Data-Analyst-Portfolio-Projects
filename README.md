@@ -23,7 +23,7 @@ These are the projects where SQL was used for data analysis and querying.
 
 ---
 
-#### 1. [Data Cleaning](Data-Analyst-Portfolio-Projects/Data Cleaning Project(1).sql)
+#### 1. [Data Cleaning]()
 **Description:**
 This project demonstrates how to use SQL to clean data based on layoffs from companies aroud the world.
 **Skills Used:** SQL, Data Analysis
