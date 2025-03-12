@@ -29,6 +29,7 @@ This project demonstrates how to use SQL to clean data based on layoffs from com
 
 **Skills Used:** SQL, Data Analysis
 
+#### 2. [Exploratory Data Analysis]()
 
 ## Skills
 
