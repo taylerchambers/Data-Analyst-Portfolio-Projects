@@ -21,7 +21,6 @@ I'm an aspiring data analyst transitioning into the tech industry, with a strong
 ### SQL 
 These are the projects where SQL was used for data analysis and querying.
 
----
 
 #### 1. [Data Cleaning](https://github.com/taylerchambers/Data-Analyst-Portfolio-Projects/blob/a43d6d9e2b1155c9d25798ce6fe0dfb9789fd2bb/Data%20Cleaning%20Project%20(1).sql)
 **Description:**
@@ -29,7 +28,24 @@ This project demonstrates how to use SQL to clean data based on layoffs from com
 
 **Skills Used:** SQL, Data Analysis
 
-#### 2. [Exploratory Data Analysis]()
+#### 2. [Exploratory Data Analysis](https://github.com/taylerchambers/Data-Analyst-Portfolio-Projects/blob/0369bb70608b99e519e46c2373a96345c02ced71/Exploratory%20Data%20Analysis.sql)
+**Description:**
+Here I explore the data of layoffs from vairous companies around the world using ORDER BY, ASC, DESC, SUBSTRING etc. This is just an overview of my syntax skills within this project.
+
+**Skills Used:** SQL, Data Analysis
+
+---
+
+### Excel 
+A project using excel and the features within the app. 
+
+
+#### 1. [Bike Purchases]()
+
+
+
+
+
 
 ## Skills
 
